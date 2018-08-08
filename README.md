@@ -8,10 +8,6 @@
 - iOS 
 - Xcode 
 
-
-## Usage
-```swift
-```
 #### Serial queue
 ```swift
 let q = EasyThread.getQueue(processors: 1)
